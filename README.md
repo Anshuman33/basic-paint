@@ -1,7 +1,6 @@
 # Basic-paint
 ![Anshuman](https://img.shields.io/static/v1?label=Basic&message=Paint&color=red)
 
-<hr>
 Basic-paint is a basic drawing application made using python and tkinter library and inspired by MSPaint.
 
 
